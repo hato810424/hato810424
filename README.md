@@ -12,7 +12,7 @@ I'm a [hatosaba.f5.si](wiki.hatosaba.f5.si) Owner<br>
 <br>
 
 #### **言語 | language**
-Japanese
+**Japanese**<br>
 html<br>
 Javascript<br>
 CSS<br>
