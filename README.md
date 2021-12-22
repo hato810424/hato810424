@@ -1,21 +1,10 @@
-### **こんにちは。hato810424だよ！**<br>
-[hatosaba.f5.si](wiki.hatosaba.f5.si) でオーナーをやってる人<br>
-よろしくね！！
+# Hi there 👋
+* I'm from **Japan**
 
-### **[English]**
-Hi. my name is "hato810424"<br>
-I'm a [hatosaba.f5.si](wiki.hatosaba.f5.si) Owner<br>
-<br>
-🗾I’m from Japan!!<br>
-🍙I like rice and Udon<br>
+## What are u doing?
+* [Minecraft-Server](https://github.com/hatosaba) hatosaba | Owner
 
-<br>
-
-#### **言語 | language**
-**Japanese**<br>
-Java<br>
-html<br>
-Javascript<br>
-CSS<br>
-[Skript](https://github.com/SkriptLang/Skript/releases)(Minecraft)<br>
-Python<br>
+## Contacts
+### I'm not good at English, so my reply may be delayed.
+* Twitter: @hato810424
+* Discord: hato#1514
