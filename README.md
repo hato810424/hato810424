@@ -1,6 +1,6 @@
 # やぁ(´･ω･`) 👋
 
-@ Web書いたり動画編集してたりする~~常に金欠の~~人
+最近はJavaでいっぱい草生やしてます。
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=default" width="100%" height="auto">
 
