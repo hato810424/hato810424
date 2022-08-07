@@ -1,6 +1,6 @@
 # やぁ(´･ω･`) 👋
 
-最近はJavaでいっぱい草生やしてます。
+あいうえお
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=default" width="100%" height="auto">
 
