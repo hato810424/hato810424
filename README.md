@@ -2,6 +2,7 @@
 
 WebとかMinecraftとかで遊んでます
 
+(😮プライベートリポジトリで色々やってるので表示上は少ない)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=default" width="100%" height="auto">
 
 ## 作ってるもの
