@@ -1,7 +1,6 @@
 # Hello👋
-
-WebとかMinecraftとかで遊んでる一般(?)学生です。<br>
-最近は、Minecraftサーバーの[経済屋](https://github.com/keizaiya)の方でフロントエンドをさせてもらってます。
+WebとかMinecraftとかで遊んでる**一般**学生です。<br>
+Web系のフレームワークがよくわからんので、ほとんどフルスクラッチで作ってます
 
 ### 作ってるもの
 * [hato810424.f5.si](https://hato810424.f5.si/) | Portfolio
