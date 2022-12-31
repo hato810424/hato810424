@@ -1,4 +1,4 @@
-# Hello👋
+# Happy New Year!!
 WebとかMinecraftとかで遊んでる学生です。<br>
 ~~いつも思った通りに動かないコードにキレてます~~
 
