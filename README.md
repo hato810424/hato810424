@@ -1,13 +1,11 @@
 # Hello👋
-WebとかMinecraftとかで遊んでる学生です。<br>
+`Minecraft`とか`VRChat`とかで遊んでる~~ツイ廃~~ **学生**です。
 
-今は、Laravelを習得中...
+主にWeb系が得意でフロントエンドなどを作ってます。
 
-### 作ってるもの
-* [hato810424.f5.si](https://hato810424.f5.si/) | Portfolio
-* [Minecraft-Server](https://github.com/hatosaba) hatosaba | Owner
-* [html用テンプレート](https://github.com/hato810424/html-temperate) | ようやく作った
+## ( ᐛ👐)パァ
+* [hato810424.f5.si](https://hato810424.f5.si/) - Portfolio
+* [html-temperate](https://github.com/hato810424/html-temperate) - ようやく作った
 
 ## よくある画像
-(😮プライベートリポジトリで色々やってるので表示上は少ない)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=default" width="100%" height="auto">
