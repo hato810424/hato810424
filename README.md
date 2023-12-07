@@ -5,7 +5,7 @@
 
 - コーディング
   - [Laravel](https://github.com/laravel/laravel)、[Vite](https://github.com/vitejs/vite)、[Preact](https://github.com/preactjs/preact)が好き。
-  - 実はGitHubの使い方がイマイチ分かってないらしい..🤔
+  - 最近はJavaにも手を出し始めた。
 
 ##
 - [hato810424.f5.si](https://hato810424.f5.si/) - Portfolio
