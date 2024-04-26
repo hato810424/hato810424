@@ -5,8 +5,8 @@
   - いつでも居る！[^2]
 - コーディング
   - [Laravel](https://github.com/laravel/laravel)、[Vite](https://github.com/vitejs/vite)、[Preact](https://github.com/preactjs/preact)が好き。
-  - 最近はJavaにも手を出し始めた。
-    - Minecraft経済サーバーのPlugin書いてる
+  - Javaにも手を出し始めた。
+    - Minecraft国家運営サーバーのPlugin書いてる
 
 ##
 - [hato810424/vike-stack](https://github.com/hato810424/vike-stack)
