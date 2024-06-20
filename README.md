@@ -1,14 +1,14 @@
 # Hi👋
 - 生態
   - 主にTwitter[^1]、Discordに生息
-    - MinecraftやVRChatにも生息。
   - いつでも居る！[^2]
 - コーディング
   - [Laravel](https://github.com/laravel/laravel)、[Vite](https://github.com/vitejs/vite)、[Preact](https://github.com/preactjs/preact)が好き。
   - Javaにも手を出し始めた。
     - Minecraft国家運営サーバーのPlugin書いてる
 
-##
+---
+
 - [hato810424/vike-stack](https://github.com/hato810424/vike-stack)
   - 好きなスタックで固めたフルスタックフレームワークのテンプレート
 - [hato810424/html-temperate.git](https://github.com/hato810424/html-temperate) - htmlの雛形をまとめてあるレポ
@@ -16,7 +16,8 @@
 - [hato810424.f5.si](https://hato810424.f5.si/) - Portfolio
   - Astroとかで作り変えたい
 
-##
+---
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=discord_old_blurple" width="100%" height="auto">
 
 [^1]: `X(旧Twitter)`と呼ばれているが、Twitterを引きずるつもりである。
