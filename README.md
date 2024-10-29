@@ -1,25 +1,16 @@
-# Hi👋
-- 生態
-  - 主にTwitter[^1]、Discordに生息
-  - いつでも居る！[^2]
-- コーディング
-  - [Laravel](https://github.com/laravel/laravel)、[Vite](https://github.com/vitejs/vite)、[Preact](https://github.com/preactjs/preact)が好き。
-  - Javaにも手を出し始めた。
-    - Minecraft国家運営サーバーのPlugin書いてる
+# Hi 👋
+Webサイト / Webアプリや、Minecraft Pluginを開発してます。個人のものはぼちぼち..
+
+[Laravel](https://github.com/laravel/laravel)、[Preact](https://github.com/preactjs/preact)、[Vike](https://github.com/vikejs/vike)が好き。
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=discord_old_blurple" width="100%" height="auto">
 
 ---
 
 - [hato810424/vike-stack](https://github.com/hato810424/vike-stack)
   - 好きなスタックで固めたフルスタックフレームワークのテンプレート
-- [hato810424/html-temperate.git](https://github.com/hato810424/html-temperate) - htmlの雛形をまとめてあるレポ
-  - 新しくなんかやるときに便利
+  - <small>バージョンが上がったため今はアーカイブ中</small>
+- [hato810424/html-temperate](https://github.com/hato810424/html-temperate)
+  - HTMLのひな形をまとめてあるレポジトリ
 - [hato810424.f5.si](https://hato810424.f5.si/) - Portfolio
-  - Astroとかで作り変えたい
-
----
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=discord_old_blurple" width="100%" height="auto">
-
-[^1]: `X(旧Twitter)`と呼ばれているが、Twitterを引きずるつもりである。
-[^2]: 直近1年間のコミット回数と時刻を見てみると、24時間中どの時間にも10コミット以上している。(2023/12/31時点)
-[^3]: SPAをする用のJavascript　Routerを自作したりもしてる。
+  - いつかつくり変えたい...
