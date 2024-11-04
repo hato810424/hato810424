@@ -5,6 +5,8 @@ Webサイト / Webアプリや、Minecraft Pluginを開発してます。個人�
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato810424&theme=discord_old_blurple" width="100%" height="auto">
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hato810424&theme=discord_old_blurple&utcOffset=8" width="60%" height="auto">
+
 ---
 
 - [hato810424/vike-stack](https://github.com/hato810424/vike-stack)
